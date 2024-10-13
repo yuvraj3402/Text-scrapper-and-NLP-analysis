@@ -1,0 +1,44 @@
+[2024-07-27 18:40:39,261] root - INFO - Starting Data Ingestion Config
+[2024-07-27 18:40:39,261] root - INFO - Getting Master Dictionary Information
+[2024-07-27 18:40:39,261] root - INFO - Getting Stop Words Information
+[2024-07-27 18:40:39,261] root - INFO - Getting Output Dirs Information
+[2024-07-27 18:40:40,196] root - INFO - generating variables
+[2024-07-27 18:40:40,197] root - INFO - Reading config file
+[2024-07-27 18:40:40,199] root - INFO - Getting Output Dir Path
+[2024-07-27 18:40:40,199] root - INFO - Getting Output file Path
+[2024-07-27 18:40:40,199] root - INFO - Getting Article Folder Dir Path
+[2024-07-27 18:40:40,199] root - INFO - Returning OutputDir config
+[2024-07-27 18:40:40,200] root - INFO - Initializing Data Ingestion Artifact
+[2024-07-27 18:40:40,200] root - INFO - Initializing Text Analysis Artifact
+[2024-07-27 18:40:40,200] root - INFO - Initializing Generate Variable Artifact
+[2024-07-27 18:40:40,200] root - INFO - Initializing Pipeline
+[2024-07-27 18:40:40,200] root - INFO - ----------------------------------------------------Starting Pipeline----------------------------------------------------
+[2024-07-27 18:40:40,200] root - INFO - Getting Output Dir Path
+[2024-07-27 18:40:40,200] root - INFO - Getting Output file Path
+[2024-07-27 18:40:40,200] root - INFO - Getting Article Folder Dir Path
+[2024-07-27 18:40:40,200] root - INFO - Returning OutputDir config
+[2024-07-27 18:40:40,200] root - INFO - getting Data Ingestion Config Info
+[2024-07-27 18:40:40,200] root - INFO - getting Dataset File Path
+[2024-07-27 18:40:40,200] root - INFO - ----------------------------------------------------Starting Data Ingestion----------------------------------------------------
+[2024-07-27 18:40:40,200] root - INFO - Reading input data from excel file
+[2024-07-27 18:40:40,859] root - INFO - Scrap Data from URL files
+[2024-07-27 18:53:55,689] root - INFO - Creating Output Dir
+[2024-07-27 18:53:55,792] root - INFO - Returning data ingestion artifact
+[2024-07-27 18:53:55,792] root - INFO - Getting Master Dictionary Path
+[2024-07-27 18:53:55,792] root - INFO - Returning Master Dictionary config
+[2024-07-27 18:53:55,793] root - INFO - Getting Stop Words Path
+[2024-07-27 18:53:55,793] root - INFO - Returning Stop Words config
+[2024-07-27 18:53:55,793] root - INFO - ----------------------------------------------------Starting Text Analysis----------------------------------------------------
+[2024-07-27 18:53:55,793] root - INFO - Get Master Dict
+[2024-07-27 18:53:55,797] root - INFO - Returning neg_words_list and pos_words_list
+[2024-07-27 18:53:55,798] root - INFO - Get Stop Words Dict
+[2024-07-27 18:53:55,805] root - INFO - Returning Stop Words List
+[2024-07-27 18:53:55,805] root - INFO - Start Lemmatization of article
+[2024-07-27 18:54:13,405] root - INFO - Return Text analysis artifact
+[2024-07-27 18:54:13,406] root - INFO - Getting Output Dir Path
+[2024-07-27 18:54:13,407] root - INFO - Getting Output file Path
+[2024-07-27 18:54:13,408] root - INFO - Getting Article Folder Dir Path
+[2024-07-27 18:54:13,408] root - INFO - Returning OutputDir config
+[2024-07-27 18:54:13,408] root - INFO - ----------------------------------------------------Starting Generating Variables----------------------------------------------------
+[2024-07-27 18:54:21,099] root - INFO - Returning generated variables
+[2024-07-27 18:54:21,100] root - INFO - Saving dataframe to the excel file

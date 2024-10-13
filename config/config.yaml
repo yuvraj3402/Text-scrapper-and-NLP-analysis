@@ -1,0 +1,15 @@
+training_pipeline_config:
+  output_dir: output_folder
+  output_file: output.xlsx
+  article_folder_dir: article_folder
+
+data_ingestion_config:
+  input_file_name: Input.xlsx
+
+
+master_dict_config:
+  master_dict_dir_name: MasterDictionary
+
+
+stop_words_config:
+  stop_words_dir_name: StopWords

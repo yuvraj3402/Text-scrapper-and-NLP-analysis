@@ -1,0 +1,24 @@
+[2024-08-20 16:11:14,570] root - INFO - Starting Data Ingestion Config
+[2024-08-20 16:11:14,571] root - INFO - Getting Master Dictionary Information
+[2024-08-20 16:11:14,571] root - INFO - Getting Stop Words Information
+[2024-08-20 16:11:14,571] root - INFO - Getting Output Dirs Information
+[2024-08-20 16:11:15,788] root - INFO - generating variables
+[2024-08-20 16:11:15,789] root - INFO - Reading config file
+[2024-08-20 16:11:15,791] root - INFO - Getting Output Dir Path
+[2024-08-20 16:11:15,791] root - INFO - Getting Output file Path
+[2024-08-20 16:11:15,791] root - INFO - Getting Article Folder Dir Path
+[2024-08-20 16:11:15,791] root - INFO - Returning OutputDir config
+[2024-08-20 16:11:15,791] root - INFO - Initializing Data Ingestion Artifact
+[2024-08-20 16:11:15,792] root - INFO - Initializing Text Analysis Artifact
+[2024-08-20 16:11:15,792] root - INFO - Initializing Generate Variable Artifact
+[2024-08-20 16:11:15,792] root - INFO - Initializing Pipeline
+[2024-08-20 16:11:15,792] root - INFO - ----------------------------------------------------Starting Pipeline----------------------------------------------------
+[2024-08-20 16:11:15,792] root - INFO - Getting Output Dir Path
+[2024-08-20 16:11:15,792] root - INFO - Getting Output file Path
+[2024-08-20 16:11:15,792] root - INFO - Getting Article Folder Dir Path
+[2024-08-20 16:11:15,792] root - INFO - Returning OutputDir config
+[2024-08-20 16:11:15,793] root - INFO - getting Data Ingestion Config Info
+[2024-08-20 16:11:15,793] root - INFO - getting Dataset File Path
+[2024-08-20 16:11:15,793] root - INFO - ----------------------------------------------------Starting Data Ingestion----------------------------------------------------
+[2024-08-20 16:11:15,793] root - INFO - Reading input data from excel file
+[2024-08-20 16:11:16,635] root - INFO - Scrap Data from URL files
